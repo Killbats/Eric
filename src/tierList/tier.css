@@ -1,4 +1,6 @@
-
+body{
+    overflow-x: hidden;
+}
 .tabTier{
     margin:15px;
 }
